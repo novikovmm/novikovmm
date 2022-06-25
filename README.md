@@ -7,5 +7,5 @@ I am a front-end JavaScript/React developer <br/>
 
 
 
-Mail me: novikovmm97@gmail.com <br/>
+:envelope: novikovmm97@gmail.com <br/>
 Telegram: https://t.me/mm_novikov <br/>
