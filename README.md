@@ -3,7 +3,7 @@ My name is Mikhail, I'm from Moscow!
 I am a front-end JavaScript/React developer
 
 Languages and Technologies
-JavaScript ReactJS Redux Express NodeJS HTML CSS
+JavaScript ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) Redux Express NodeJS HTML CSS
 
 
 
