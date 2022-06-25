@@ -8,4 +8,4 @@ I am a front-end JavaScript/React developer <br/>
 
 
 :envelope: novikovmm97@gmail.com <br/>
-Telegram: https://t.me/mm_novikov <br/>
+💬 https://t.me/mm_novikov <br/>
